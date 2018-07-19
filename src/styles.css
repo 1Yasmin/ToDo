@@ -1,0 +1,12 @@
+.btnSeleccion {
+    margin: 0;
+    padding: 0;
+}
+
+.seleccion {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
